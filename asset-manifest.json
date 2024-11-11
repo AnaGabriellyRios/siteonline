@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/siteonline/static/css/main.2be78056.css",
-    "main.js": "/siteonline/static/js/main.474434bc.js",
-    "static/js/453.118cda70.chunk.js": "/siteonline/static/js/453.118cda70.chunk.js",
-    "index.html": "/siteonline/index.html",
-    "main.2be78056.css.map": "/siteonline/static/css/main.2be78056.css.map",
-    "main.474434bc.js.map": "/siteonline/static/js/main.474434bc.js.map",
-    "453.118cda70.chunk.js.map": "/siteonline/static/js/453.118cda70.chunk.js.map"
+    "main.css": "/AnaGabriellyRios/siteonline.gith/static/css/main.2be78056.css",
+    "main.js": "/AnaGabriellyRios/siteonline.gith/static/js/main.66fd246a.js",
+    "static/js/453.118cda70.chunk.js": "/AnaGabriellyRios/siteonline.gith/static/js/453.118cda70.chunk.js",
+    "index.html": "/AnaGabriellyRios/siteonline.gith/index.html",
+    "main.2be78056.css.map": "/AnaGabriellyRios/siteonline.gith/static/css/main.2be78056.css.map",
+    "main.66fd246a.js.map": "/AnaGabriellyRios/siteonline.gith/static/js/main.66fd246a.js.map",
+    "453.118cda70.chunk.js.map": "/AnaGabriellyRios/siteonline.gith/static/js/453.118cda70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2be78056.css",
-    "static/js/main.474434bc.js"
+    "static/js/main.66fd246a.js"
   ]
 }
