@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AnaGabriellyRios/siteonline.gith/static/css/main.2be78056.css",
-    "main.js": "/AnaGabriellyRios/siteonline.gith/static/js/main.66fd246a.js",
-    "static/js/453.118cda70.chunk.js": "/AnaGabriellyRios/siteonline.gith/static/js/453.118cda70.chunk.js",
-    "index.html": "/AnaGabriellyRios/siteonline.gith/index.html",
-    "main.2be78056.css.map": "/AnaGabriellyRios/siteonline.gith/static/css/main.2be78056.css.map",
-    "main.66fd246a.js.map": "/AnaGabriellyRios/siteonline.gith/static/js/main.66fd246a.js.map",
-    "453.118cda70.chunk.js.map": "/AnaGabriellyRios/siteonline.gith/static/js/453.118cda70.chunk.js.map"
+    "main.css": "/jogosite-online/static/css/main.2be78056.css",
+    "main.js": "/jogosite-online/static/js/main.70f43e00.js",
+    "static/js/453.118cda70.chunk.js": "/jogosite-online/static/js/453.118cda70.chunk.js",
+    "index.html": "/jogosite-online/index.html",
+    "main.2be78056.css.map": "/jogosite-online/static/css/main.2be78056.css.map",
+    "main.70f43e00.js.map": "/jogosite-online/static/js/main.70f43e00.js.map",
+    "453.118cda70.chunk.js.map": "/jogosite-online/static/js/453.118cda70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2be78056.css",
-    "static/js/main.66fd246a.js"
+    "static/js/main.70f43e00.js"
   ]
 }
